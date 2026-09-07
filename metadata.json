@@ -1,0 +1,6 @@
+{
+  "name": "L'AURA Salon & Beauty Boutique",
+  "description": "A luxury salon booking platform and premium beauty products e-commerce store with interactive appointments, product catalog, cart, user dashboard, and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
